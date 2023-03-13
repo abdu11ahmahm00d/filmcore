@@ -209,10 +209,10 @@ textarea {
 
 .badge-container {
     display: flex;
-    bottom: 25px;
+    bottom: 20px;
     flex: 0 0 auto;
     height: auto;
-    left: 55px;
+    left: 50px;
     position: fixed;
     width: auto;
     z-index: 1;
@@ -230,10 +230,10 @@ textarea {
     filter: grayscale(1);
     transform: none;
     transform-origin: 50% 50% 0px;
-    font-size: 14px;
+    font-size: 1px;
     font-weight: 700;
     letter-spacing: -0.5px;
-    line-height: 1em;
+    line-height: 10em;
     color: #525252;
     padding: 12px;
     text-decoration: none;
@@ -245,8 +245,8 @@ textarea {
 }
 
 .badge img {
-    width: 25px;
-    height: 25px;
+    width: 20px;
+    height: 20px;
     image-rendering: crisp-edges;
     flex-shrink: 0;
     fill: black;
