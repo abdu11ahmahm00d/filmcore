@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="Built by Abdullah" key="description"/>
         <meta
           property="og:image"
-          content="https://i.pinimg.com/280x280_RS/e1/a8/ce/e1a8cee33865d65cdcaeea0c704f1db4.jpg"
+          content="https://filmcore.vercel.app/"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
       </Head>
