@@ -213,7 +213,7 @@ textarea {
     flex: 0 0 auto;
     height: auto;
     left: 50px;
-    position: fixed;
+    position: static;
     width: auto;
     z-index: 1;
 }
@@ -240,7 +240,7 @@ textarea {
 }
 
 .badge {
-    display: fixed;
+    display: flex;
     align-items: center;
 }
 
