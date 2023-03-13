@@ -209,7 +209,7 @@ textarea {
 
 .badge-container {
     display: flex;
-    bottom: 20px;
+    bottom: 25px;
     flex: 0 0 auto;
     height: auto;
     left: 50px;
@@ -230,10 +230,10 @@ textarea {
     filter: grayscale(1);
     transform: none;
     transform-origin: 50% 50% 0px;
-    font-size: 1px;
+    font-size: 10px;
     font-weight: 700;
     letter-spacing: -0.5px;
-    line-height: 10em;
+    line-height: 1.3em;
     color: #525252;
     padding: 12px;
     text-decoration: none;
