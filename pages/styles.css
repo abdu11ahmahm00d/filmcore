@@ -240,7 +240,7 @@ textarea {
 }
 
 .badge {
-    display: flex;
+    display: fixed;
     align-items: center;
 }
 
