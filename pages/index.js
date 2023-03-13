@@ -33,7 +33,7 @@ const callGenerateEndpoint = async () => {
   return (
     <div className="root">
       <Head>
-        <title>Filmcore.</title>
+        <title>Filmcore by Abdullah</title>
       </Head>
       <div className="container">
         <div className="header">
@@ -46,7 +46,7 @@ const callGenerateEndpoint = async () => {
         </div>
         <div className="prompt-container">
         <textarea 
-  placeholder="start typing here" 
+  placeholder="Captain America: Civil War." 
   className="prompt-box" 
   value={userInput}
   onChange={onUserChangedText}
