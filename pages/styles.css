@@ -207,17 +207,6 @@ textarea {
     cursor: default;
 }
 
-.badge-container {
-    display: flex;
-    bottom: 20px;
-    flex: 0 0 auto;
-    height: 5vh;
-    left: 50px;
-    position: fixed;
-    width: 5vw;
-    z-index: 1;
-}
-
 .badge-container a {
     border-bottom-width: 0.5px;
     border-color: rgba(255, 255, 255, 0.1);
